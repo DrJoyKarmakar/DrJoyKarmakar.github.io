@@ -15,7 +15,7 @@ main:
     url: /presentaion/    
 
   - title: "Awards"
-    url: /awards/
+    url: /_pages/awards.md
     
   - title: "Photos"
     url: /images/
