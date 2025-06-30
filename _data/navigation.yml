@@ -9,25 +9,19 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&user=uaIKU0oAAAAJ&view_op=list_works&sortby=pubdate
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Presentation"
+    url: /presentaion/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Awards"
+  url: /awards/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Photos"
+    url: /images/
+
   - title: "CV"
-    url: /cv/
+    url: /files/Resume.pdf
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
