@@ -21,9 +21,8 @@ repository               : "DrJoyKarmakar/drjoykarmakar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/IMG_8311.png"
-  name             : "Joy Karmakar"
-  pronouns         : # example: "he/him"  
+  avatar           : "IMG_8303.png"
+  name             : "Joy Karmakar"  
   bio              : "Chemist"
   location         : "San Francisco"
   employer         : "UC San Francisco"
@@ -59,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/joykarmakarchem/"
+  linkedin         : "joykarmakarchem/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
