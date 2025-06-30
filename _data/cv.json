@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Joy Karmakar",
+    "email": "joykarmakar12@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://drjoykarmakar.github.io",
+    "summary": "Postdoctoral Fellow at UCSF",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "San Francisco",
       "countryCode": "US",
-      "region": ""
+      "region": "California"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=uaIKU0oAAAAJ&view_op=list_works&sortby=pubdate"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0000-0002-8232-5639"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/drjoykarmakar"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Ari'el University, Israel",
+      "area": "Ph.D in Chemistry",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Hyderabad University, India",
+      "area": "M.Sc. in Chemistry",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Presidency College, Calcutta University, India",
+      "area": "B.Sc. Honors in Chemistry",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2013",
       "gpa": null,
       "courses": []
     }
@@ -66,32 +66,60 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "High potency 3-carboxy-2-methylbenzofuran pendrin inhibitors as novel diuretics",
+      "publisher": "European Journal of Medicinal Chemistry",
+      "releaseDate": "2025/2/5",
+      "website": "https://www.sciencedirect.com/science/article/abs/pii/S0223523424010158",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Selective isoxazolopyrimidine PAT1 (SLC26A6) inhibitors for therapy of intestinal disorders",
+      "publisher": "RSC Medicinal Chemistry",
+      "releaseDate": "2023",
+      "website": "https://pubs.rsc.org/en/content/articlelanding/2023/md/d3md00302g/unauth",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "A Short Review on Recent Advances and Applications of Bimane Chemistry",
+      "publisher": "Prayogik Rasayan",
+      "releaseDate": "2022/12/30",
+      "website": "http://www.divyarasayan.org/journal/prasayan/loi/64.html",
+      "summary": "The First review of Bimanes"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Highly Sensitive Water Detection Through Reversible Fluorescence Changes in a syn-Bimane Based Boronic Acid Derivative",
+      "publisher": "Frontiers in Chemistry",
+      "releaseDate": "2022/1/17",
+      "website": "https://www.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2021.782481/full",
+      "summary": ""
+    },
+    {
+      "name": "A dipodal bimane–ditriazole–diCu (ii) complex serves as an ultrasensitive water sensor",
+      "publisher": "Chemical Communication",
+      "releaseDate": "2022",
+      "website": "https://pubs.rsc.org/en/content/articlelanding/2022/cc/d1cc07138f/unauth",
+      "summary": ""
+    },
+    {
+      "name": "Re-enter the syn-(Me, I) Bimane: A Gateway to Bimane Derivatives with Extended π-Systems",
+      "publisher": "Synlett",
+      "releaseDate": "2021/7",
+      "website": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0040-1706045",
+      "summary": ""
+    },
+    {
+      "name": "Facile Iodine Detection via Fluorescence Quenching of β‐Cyclodextrin: Bimane‐Ditriazole Inclusion Complexes",
+      "publisher": "Israel Journal of Chemistry",
+      "releaseDate": "2021/3",
+      "website": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ijch.202000092",
+      "summary": ""
+    },
+    {
+      "name": "Versatile binding modes of acyclic N2X2 (X= O, S and P) ligands towards [GeCl]+ and AuCl units",
+      "publisher": "Inorganica Chimica Acta",
+      "releaseDate": "2020/4/1",
+      "website": "https://www.sciencedirect.com/science/article/abs/pii/S0020169319311934",
+      "summary": ""
     }
   ],
   "presentations": [
