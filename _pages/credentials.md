@@ -31,10 +31,6 @@ Dissertation title: <em>Studies on Propargyl Claisen Rearrangement via <i>in sit
 
 <hr>
 
-<hr>
-
-<hr>
-
 <div style="text-align: center; margin-top: 30px;">
   <strong>Institutional Affiliations</strong><br><br>
   <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
