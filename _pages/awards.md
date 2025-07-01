@@ -5,8 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Awards
-
 - Selected to the **ACS Postdoc to Faculty Workshop** in Washington DC, 2025 (Expense awarded by the American Chemical Society).
   
 - **Postdoctoral Independent Research Grant Award** from the Program for Breakthrough Biomedical Research (PBBR), Sandler Foundation, USA, 2024.
