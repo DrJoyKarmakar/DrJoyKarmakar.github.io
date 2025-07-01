@@ -23,8 +23,8 @@ main:
   - title: "Affiliations"
     url: /affiliation/   
   
-  - title: "Photos"
-    url: /images/
+  - title: "Gallery"
+    url: /gallery/
 
   - title: "CV"
     url: /files/Resume.pdf
