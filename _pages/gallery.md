@@ -45,11 +45,37 @@ author_profile: true
 </figure>
 
 <figure>
+  <img src="/images/EYCheM Photo.jpg" alt="EYCheM" style="width: 100%;">
+  <figcaption style="text-align: center; font-size: 90%;">Special Sponsor Award (NCCR Bioinspired) presented by European Young Chemists Meeting and Swiss Academy of Sciences in 2022.</figcaption>
+</figure>
+
+
+<figure>
   <img src="/images/Dan.jpeg" alt="Prof. Dan Shechtman" style="width: 100%;">
   <figcaption style="text-align: center; font-size: 90%;">With 2011 Nobel Laureate Prof. Dan Shechtman during my first year of Ph.D. studies at Ariel University. His insights on quasicrystals and academic rigor left a lasting impression.</figcaption>
 </figure>
 
 <figure>
+  <img src="/images/IMG_0859.jpeg" alt="Bartosz Grzybowski" style="width: 100%;">
+  <figcaption style="text-align: center; font-size: 90%;">With Prof. Bartosz Grzybowski, after his talk on AI-based computerized organic synthesis at St. Anton, Austria.</figcaption>
+</figure>
+
+<figure>
   <img src="/images/IMG_5273.jpeg" alt="Prof. Dan Shechtman" style="width: 100%;">
   <figcaption style="text-align: center; font-size: 90%;">A memorable interaction with Prof. Dan Shechtman in the inaugural meeting of the International ACS Chapter in Israel at the Open University, Israel.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/Berkley.jpeg" alt="berkeley" style="width: 100%;">
+  <figcaption style="text-align: center; font-size: 90%;">During my first visit to the College of Chemistry, UC Berkeley.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/Fraser.jpeg" alt="Fresser" style="width: 100%;">
+  <figcaption style="text-align: center; font-size: 90%;">My first and only intereation with 2016 Nobel Laureate Prof. Fraser Stoddart. He was the kindest person I have ever met.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/Knesset.jpeg" alt="Knesset" style="width: 100%;">
+  <figcaption style="text-align: center; font-size: 90%;">Inside the Israeli Parliament, Knesset in 2018.</figcaption>
 </figure>
