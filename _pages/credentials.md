@@ -4,17 +4,27 @@ title: "Credentials"
 permalink: /credentials/
 author_profile: true
 ---
-2023-2025: Postdoctoral Fellow, School of Medicine, Department of Pediatrics, **University of California, San Francisco, USA
-**
-Mentor: **Onur CIl, MD, Ph.D.**
 
-2018 - 2022: Ph.D. in Chemistry, Department of Chemical Sciences, **Ari'el University, Israel**
-    Mentors: **Prof. Flavio Grynszpan** & **Prof. Alex M. Szpilman**
-Dissertation title: _Novel Bimane Derivatives: Synthesis and Metal Complexes_
+<p style="text-align: justify;">
+<strong>2023–2025:</strong> Postdoctoral Fellow, School of Medicine, Department of Pediatrics, <strong>University of California, San Francisco, USA</strong><br>
+Mentor: <strong>Onur Cil, MD, Ph.D.</strong>
+</p>
 
-2013 - 2016: M.Sc. in Chemistry, School of Chemistry, **University of Hyderabad, India** (**First Class**)
-Dissertation title: _Studies on Propargyl Claisen Rearrangement via in situ Formed Acetal_
+<p style="text-align: justify;">
+<strong>2018–2022:</strong> Ph.D. in Chemistry, Department of Chemical Sciences, <strong>Ari'el University, Israel</strong><br>
+Mentors: <strong>Prof. Flavio Grynszpan</strong> & <strong>Prof. Alex M. Szpilman</strong><br>
+Dissertation title: <em>Novel Bimane Derivatives: Synthesis and Metal Complexes</em>
+</p>
 
-2010 - 2013: B.Sc. with Honors in Chemistry, Department of Chemistry, **Presidency College, University of Calcutta, India.** (**First Class with Honors**)
+<p style="text-align: justify;">
+<strong>2013–2016:</strong> M.Sc. in Chemistry, School of Chemistry, <strong>University of Hyderabad, India</strong> (<strong>First Class</strong>)<br>
+Dissertation title: <em>Studies on Propargyl Claisen Rearrangement via <i>in situ</i> Formed Acetal</em>
+</p>
 
-2008-2010: Higher Secondary, **Purulia Zilla School**, India (**First Division**)
+<p style="text-align: justify;">
+<strong>2010–2013:</strong> B.Sc. with Honors in Chemistry, Department of Chemistry, <strong>Presidency College, University of Calcutta, India</strong> (<strong>First Class with Honors</strong>)
+</p>
+
+<p style="text-align: justify;">
+<strong>2008–2010:</strong> Higher Secondary, <strong>Purulia Zilla School, India</strong> (<strong>First Division</strong>)
+</p>
