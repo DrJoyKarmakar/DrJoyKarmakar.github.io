@@ -28,3 +28,15 @@ Dissertation title: <em>Studies on Propargyl Claisen Rearrangement via <i>in sit
 <p style="text-align: justify;">
 <strong>2008–2010:</strong> Higher Secondary, <strong>Purulia Zilla School, India</strong> (<strong>First Division</strong>)
 </p>
+
+<hr>
+
+<div style="text-align: center; margin-top: 30px;">
+  <strong>Institutional Affiliations</strong><br><br>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+    <img src="/images/UCSF_Sig_Tag_21_Navy_300dpi_RGB.png" alt="UCSF Logo" style="height: 50px;">
+    <img src="/images/Ariel_university.logo.jpg" alt="Ariel University Logo" style="height: 50px;">
+    <img src="/images/University_of_Hyderabad_Logo.png" alt="University of Hyderabad Logo" style="height: 50px;">
+    <img src="/images/Presidency_University,_Kolkata_Logo.svg.png" alt="Presidency College Logo" style="height: 50px;">
+  </div>
+</div>
