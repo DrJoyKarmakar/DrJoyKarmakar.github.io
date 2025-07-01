@@ -15,7 +15,7 @@ main:
     url: /presentaion/    
 
   - title: "Awards"
-    permalink: /awards/
+    url: /awards/
     
   - title: "Photos"
     url: /images/
