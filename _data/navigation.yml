@@ -12,7 +12,7 @@ main:
     url: https://scholar.google.com/citations?hl=en&user=uaIKU0oAAAAJ&view_op=list_works&sortby=pubdate
 
   - title: "Presentation"
-    url: /presentaion/    
+    url: /presentation/    
 
   - title: "Awards"
     url: /awards/
