@@ -1,15 +1,8 @@
 ---
 layout: single
-title: "About Me"
+title: "Introduction"
 permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-header:
-  overlay_image: /assets/images/banner.png
-  overlay_filter: 0.2  # Optional: adds dark overlay for contrast
-  caption: "Postdoctoral Fellow at UCSF | Medicinal Chemistry & Diagnostics"
 ---
 
 <p style="text-align: justify;">
