@@ -16,7 +16,10 @@ main:
 
   - title: "Awards"
     url: /awards/
-    
+ 
+  - title: "Affiliations"
+    url: /affiliation/   
+  
   - title: "Photos"
     url: /images/
 
