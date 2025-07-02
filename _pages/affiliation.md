@@ -12,3 +12,15 @@ author_profile: true
 - Member of **American Chemical Society & ACS Division of Medicinal Chemistry**, 2023 - Present
 
 - Member of **Israel Chemical Society**, 2022 - Present
+
+<hr>
+
+<div style="text-align: center; margin-top: 30px;">
+  <strong>****************************</strong><br><br>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
+    <img src="/images/Carbon Energy.jpg" alt="Carbon Energy" style="height: 110px;">
+    <img src="/images/IYCN copy.tiff" alt="IYCN" style="height: 110px;">
+    <img src="/images/ACS Logo.png" alt="ACS Logo" style="height: 110px;">
+    <img src="/images/ICS Logo.png" alt="ICS Logo" style="height: 110px;">
+  </div>
+</div>
