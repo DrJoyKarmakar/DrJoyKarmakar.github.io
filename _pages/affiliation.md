@@ -19,7 +19,7 @@ author_profile: true
   <strong>****************************</strong><br><br>
   <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
     <img src="/images/Carbon Energy.jpg" alt="Carbon Energy" style="height: 110px;">
-    <img src="/images/IYCNNN.jpeg" alt="IYCN" style="height: 110px;">
+    <img src="/images/IYCNNNNN logo.png" alt="IYCN" style="height: 110px;">
     <img src="/images/ACS Logo.png" alt="ACS Logo" style="height: 110px;">
     <img src="/images/ICS Logo.png" alt="ICS Logo" style="height: 110px;">
   </div>
